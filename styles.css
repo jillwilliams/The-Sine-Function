@@ -1,0 +1,87 @@
+body {
+    font-family: "Liu Jian Mao Cao", cursive;
+    background-color: black;
+    color: aqua;
+    letter-spacing: 4px;
+    margin: 15px 35px 45px 35px;
+    font-size: 1.8rem;
+
+}
+h1 {
+    text-align: center;
+}
+#img1 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 30px;
+    border: 1px aqua solid;
+}
+#img2 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    border: 1px aqua solid;
+}
+#img3 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    border: 1px aqua solid;
+}
+#img4 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    border: 1px aqua solid;
+}
+#img5 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    border: 1px aqua solid;
+}
+#img6 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    border: 1px aqua solid;
+}
+#img7 {
+    width: 20%;
+    height: auto;
+    margin-left: 20%;
+    margin-top: 30px;
+    border: 1px aqua solid;
+    outline: 1px white solid;
+    display: inline;
+}
+#img8 {
+    width: 22%;
+    height: auto;
+    margin-left: 10%;
+    margin-top: 30px;
+    border: 1px aqua solid;
+    outline: 1px white solid;
+    display: inline;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
