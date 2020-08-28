@@ -88,7 +88,7 @@ h1 {
     outline: 1px white solid;
 }
 #myBtn {
-    width: 10%;
+    width: 20%;
     height: 60px;
     font-size: 1.5rem;
     font-family: "Liu Jian Mao Cao", cursive;
@@ -96,10 +96,9 @@ h1 {
     margin-top: 30px;
     border: 1px aqua solid;
     outline: 1px white solid;
-
 }
 #demo, #demo1, #demo2 {
-    width: 10%;
+    width: 20%;
     height: 40px;
     font-size: 1.5rem;
     font-family: "Liu Jian Mao Cao", cursive;
@@ -111,6 +110,11 @@ h1 {
     color:black;
     text-align: center;
     padding: 10px;
+}
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px aqua solid;
+    outline: 1px white solid;
 }
 footer {
     text-align: center;
